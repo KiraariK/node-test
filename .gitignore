@@ -64,6 +64,7 @@ typings/
 .idea/**/workspace.xml
 .idea/**/tasks.xml
 .idea/dictionaries
+.idea/vcs.xml
 
 # Sensitive or high-churn files:
 .idea/**/dataSources/
@@ -106,3 +107,7 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
+
+*.iml
+modules.xml
+encodings.xml
